@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Christian Arredondo's Blog"
+theme = "yinyang"
+
+[author]
+  name = "Christian"
+
+[params]
+headTitle = "Christian Arredondo"
+mainSections = ["posts"]
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+[[params.socials]]
+name = "About Me"
+link = "https://github.com/ChristianArredondo"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/ChristianArredondo"
