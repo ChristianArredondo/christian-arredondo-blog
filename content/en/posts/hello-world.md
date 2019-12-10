@@ -1,5 +1,5 @@
 +++
-title = "Hello, world"
+title = "Hello, elizabeth"
 description = "First post"
 tags = [
     "jamstack",
@@ -12,6 +12,6 @@ categories = [
 menu = "main"
 +++
 
-## Hello, hugo
+## Hello, Elizabeth
 
-Just a sample post to get this bad boy off the ground.
+I love you
