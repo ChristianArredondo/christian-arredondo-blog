@@ -1,5 +1,5 @@
 +++
-title = "Hello, hugo"
+title = "Hello, world"
 description = "First post"
 tags = [
     "jamstack",
